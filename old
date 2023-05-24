@@ -1,0 +1,65 @@
+<header class="">
+        <nav class="d-flex justify-content-between">
+            <div class="d-flex col-md-6 col-12">
+                <img src="img/new_icon_small-r.png" alt=""  class="logo">
+                <div class="">
+                    <h1>OBS</h1>
+                    <h2>Open Broadcast Software &reg; </h2>
+                </div>
+                
+            </div>
+            <div >
+                <div class="col-12">
+                    <a href="">Home</a>
+                    <a href="">Download</a>
+                    <a href="">News</a>
+                    <a href="">Help</a>
+                    <a href="">Forum</a>
+                </div>
+                <div class="col-12">
+                    <button type="button"><img src="img/Discord.svg" alt=""></button>
+                    <button type="button"><img src="img/Discord.svg" alt=""></button>
+                    <button type="button"><img src="img/Discord.svg" alt=""></button>
+                    <button type="button"><img src="img/Discord.svg" alt=""></button>
+                    <button type="button" class="d-flex"><img src="img/Discord.svg" alt="">Contribute</button>
+                </div>
+            </div>
+        </nav>
+        
+    </header>
+    <main class=" d-flex justify-content-center ">
+        <section class="info">
+                <h1>Thank you for downloading OBS Studio!</h1>
+                <h3>Getting Started</h3>
+                <div class="up-boxes d-flex justify-content-between row">
+                    <div class="upperBox col-12 col-md-6 col-lg-4">
+                        <img src="img/lightning.png" alt="">
+                        <p>If you are  new to using OBS please check out the <a href="">OBS Studio Quickstart Guide</a>. It can get you up and running in 4 easy steps!</p>
+                    </div>
+                    <div class="upperBox col-12">
+                        <img src="img/book.png" alt="">
+                        <p>The <a href="">OBS Studio Overview</a>  is a more detailed breakdown of the features in OBS Studio for new and veteran users alike.</p>
+                    </div>
+                    <div class="upperBox col-12">
+                        <img src="img/comment.png" alt="">
+                        <p>You can visit the <a href="">Forums</a>  and <a href="">Community Discord</a>  with any questions or issues you have.</p>
+                    </div>
+                    
+                </div>
+                <div class="low-boxes d-flex justify-content-between row">
+                    <div class="lowerBox col-12">
+                        <img src="img/help.png" alt="">
+                        <p>All of these resources along with Frequently Asked Questions are available via the <a href="">Help portal</a>  in the top navigation bar.</p>
+                    </div>
+                    <div class="lowerBox col-12">
+                        <img src="img/heart.png" alt="">
+                        <p>Looking for ways to give back? Check out <a href="">Contributing to the OBS Project</a>  to see ways you can support our work.</p>
+                    </div>
+                </div>
+                
+            
+        </section>
+        <section>
+
+        </section>
+    </main>
