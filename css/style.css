@@ -155,7 +155,7 @@ main a{
 }
 
 input:checked + .slider {
-  background-color: #c6def3;
+  background-color: #2e3e76;
 }
 
 
